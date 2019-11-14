@@ -1,4 +1,4 @@
-# GSAP 3 升級十大須知 !!!
+# GSAP3 Update 10 Tips !!!
 
 ![gsap3](./assets/gsap3.jpg)
 
