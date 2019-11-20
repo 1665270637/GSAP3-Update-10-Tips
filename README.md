@@ -12,6 +12,6 @@ Download [https://greensock.com/docs/v3/Installation](https://greensock.com/docs
 
 GSAP 3 Release Notes [https://greensock.com/3-release-notes](https://greensock.com/3-release-notes)
 
-
+影片連結 [https://www.youtube.com/playlist?list=PLbOfcOk7bN40WfzgRMLEQzkayS8pjWO_e](https://www.youtube.com/playlist?list=PLbOfcOk7bN40WfzgRMLEQzkayS8pjWO_e)
 
 
